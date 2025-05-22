@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.avatar{
+
+    width: 280px;
+    border-radius: 20px;
+    border: 3.5px solid white;
+    
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: background: #6f07ed;
+    background: linear-gradient(90deg, rgba(111, 7, 237, 1) 0%, rgba(151, 60, 181, 1) 50%, rgba(252, 176, 69, 1) 100%) no-repeat;
+}
+
+.Todooconteudo{
+    width: 600px;
+    margin: auto;
+
+}
+
+.meuslinks{
+    text-align: center;
+
+}
